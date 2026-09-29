@@ -1,11 +1,11 @@
 {
-    "name": "Navajeevan",
-    "short_name": "Navajeevan",
+    "name": "Navjeevan",
+    "short_name": "Navjeevan",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#FAF6EE",
-    "theme_color": "#1F4D33",
-    "description": "Navajeevan staff app",
+    "background_color": "#FFFFFF",
+    "theme_color": "#2956A3",
+    "description": "Navjeevan staff app",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
